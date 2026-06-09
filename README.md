@@ -54,8 +54,10 @@ pip install pandas numpy scikit-learn streamlit
 ```bash
 streamlit run sales project.py
 ```
+or
+python -m streamlit run "C:\Users\acer\OneDrive\Documents\project -1\sales project.py"
 
 ## Author
 
-Madhumithra
+Madhumithra.P
 
