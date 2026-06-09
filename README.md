@@ -55,9 +55,17 @@ pip install pandas numpy scikit-learn streamlit
 streamlit run sales project.py
 ```
 or
-'''
+
+```
 python -m streamlit run "C:\Users\acer\OneDrive\Documents\project -1\sales project.py"
-'''
+```
+
+## Web Page Screenshot Using The Streamlit
+
+<img width="980" height="669" alt="will buy" src="https://github.com/user-attachments/assets/fec794dd-fac6-4303-a3db-74bf9b44dde5" />
+
+<img width="1056" height="768" alt="wont buy" src="https://github.com/user-attachments/assets/75842b18-fc47-4fb9-b4ca-26545befaebc" />
+
 ## Author
 
 Madhumithra.P
